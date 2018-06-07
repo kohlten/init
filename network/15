@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cat /etc/hosts
+# shows all local DNS entries 

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# dhcp
+# nslookup 10.51.1.253

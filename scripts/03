@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ -d "$1" ]; then
+	ls -lSh "$1"
+else
+	echo "./03 FOLDER"
+fi

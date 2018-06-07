@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ $# -eq 1 ]; then
+	sudo hostname $1
+else
+	echo "./02 NAME"
+fi

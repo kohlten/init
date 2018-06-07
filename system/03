@@ -1,0 +1,5 @@
+#!/bin/bash
+
+less /etc/hostname
+
+# Contains the permanent hostname

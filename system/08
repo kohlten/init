@@ -1,0 +1,5 @@
+#!/bin/bash
+
+less ~/.ssh/authorized_keys 
+
+# https://www.ssh.com/ssh/authorized_keys/openssh#sec-Location-of-the-Authorized-Keys-File
